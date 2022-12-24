@@ -1,2 +1,0 @@
-emnist-balanced-test.csv filter=lfs diff=lfs merge=lfs -text
-emnist-balanced-train.csv filter=lfs diff=lfs merge=lfs -text

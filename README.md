@@ -17,7 +17,7 @@ The full documentation for my product, including citations and inspirations, can
 - Tensorflow: To install, run `pip install tensorflow` in the command prompt.
 
 ## How to Use
-To use the handwriting recognition program, run the `finalGUI.py` file. This will open the GUI where you can input your handwritten text.
+To use the handwriting recognition program, run the `finalGUI.py` file using an IDE (for some reason it doesn't run if you click on the .py file, so open the file in an IDE first and then run it). This will open the GUI where you can input your handwritten text.
 
 ## More Information
 For more information on the development process of the neural network, see the `MLdocumentation.docx` file in the repository.
